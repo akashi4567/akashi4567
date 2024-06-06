@@ -12,4 +12,4 @@ Meu nome é Emanuel Prado Bruni
 
 
 
-  [](https://media1.tenor.com/m/pe9qM_inDVYAAAAC/truc.gif)
+  ![](https://media1.tenor.com/m/pe9qM_inDVYAAAAC/truc.gif)
